@@ -1,6 +1,6 @@
 ---
 title: Audioseparation0.1.0
-emoji: 🏢
+emoji: 🔊
 colorFrom: indigo
 colorTo: green
 sdk: streamlit
