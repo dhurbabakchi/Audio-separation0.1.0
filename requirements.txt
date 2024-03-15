@@ -1,4 +1,1 @@
 streamlit
-gooey
-pyinstaller
-demucs
